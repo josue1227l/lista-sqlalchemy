@@ -1,0 +1,16 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Bancos de dados (serão criados pelos scripts)
+*.db
+
+# Configurações locais
+.env
+
+# Configurações do VS Code
+.vscode/
